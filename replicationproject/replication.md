@@ -14,7 +14,7 @@ Project: Musical instrument
 
 https://makecode.microbit.org/courses/csintro/arrays/project
 
-![Image](missingimage.png)
+![Image](https://pxt.azureedge.net/blob/a9d374a286c0f544dee4d366cbb31409806fdd1f/static/courses/csintro/arrays/microbit-guitar.png)
 
 This project is related to mine because (insert reasons here).
 
