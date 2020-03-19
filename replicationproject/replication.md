@@ -4,7 +4,7 @@
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Replication project choice ##
+## Microbit Guitar ##
 (Insert the name of the project you chose to replicate.)
 
 ## Related projects ##
