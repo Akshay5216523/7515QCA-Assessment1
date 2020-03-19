@@ -4,7 +4,7 @@
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Microbit Guitar ##
+## Microbit Ukulele ##
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
@@ -17,7 +17,7 @@ https://makecode.microbit.org/courses/csintro/arrays/project
 
 ![Image](https://pxt.azureedge.net/blob/a9d374a286c0f544dee4d366cbb31409806fdd1f/static/courses/csintro/arrays/microbit-guitar.png)
 
-This project is related to mine as it is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing. Although I would be using a different form of input the concept is similar wherein the the pitch and tone of the sounds are modulated based on the input from the user. The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.
+This project is related to mine as it is also an example of a project that uses the micro:bit to play different tones when the guitar is held differently and tilted while playing. Although I would be using a different form of input the concept is similar wherein the the pitch and tone of the sounds are modulated based on the input from the user. The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.
 
 ### Related project 2 ###
 
@@ -27,9 +27,8 @@ https://drive.google.com/file/d/1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj/view
 
 ![Image](https://i.pinimg.com/originals/3e/18/49/3e1849fee14e298666b287468ab5feb1.jpg)
 
-This project is also related to myine as it is also type of musical instrument whereas in this project the keys are covered by tin foil. All the keys are connected to 3.3 Volt that is supplied by the 3V pin of the microbit. There are 3 strips of tin foil laying under the keys perpendicularly. Each strip is connected to a digital input pin on the microbit. When a key is pressed it connects 3V to the digital input through the tin foils. The way microbit can recognize the different keys is that every key can
+This project is also related to mine as it is also type of musical instrument whereas in this project the keys are covered by tin foil. All the keys are connected to 3.3 Volt that is supplied by the 3V pin of the microbit. There are 3 strips of tin foil laying under the keys perpendicularly. Each strip is connected to a digital input pin on the microbit. When a key is pressed it connects 3V to the digital input through the tin foils. The way microbit can recognize the different keys is that every key can
 contact to different combination of strips as we cover some of the strips with paper
-
 
 ### Related project 3 ###
 
@@ -38,6 +37,17 @@ Project: Micro:bit tilt thermin
 http://www.suppertime.co.uk/blogmywiki/2019/02/microbit-music-experiments/
 
 ![Image](https://i.ytimg.com/vi/oFTcXJISoH4/maxresdefault.jpg)
+
+This project is also related to myine as it is also type of musical instrument, controlling the pitch of the tone being played by changing the physical pitch (tilt) of the micro:bit.
+
+### Related project 4 ###
+
+Project: Micro:bit light thermin
+
+https://www.element14.com/community/community/stem-academy/microbit/blog/2018/12/21/project-bbc-microbit-light-theremin-by-cabe
+
+![Image](https://www.element14.com/community/servlet/JiveServlet/downloadImage/38-31268-650550/20181221_141518.jpg)
+![Image](https://www.element14.com/community/servlet/JiveServlet/downloadImage/38-31268-650548/light+theremin+schematic.PNG)
 
 This project is also related to myine as it is also type of musical instrument, controlling the pitch of the tone being played by changing the physical pitch (tilt) of the micro:bit.
 
