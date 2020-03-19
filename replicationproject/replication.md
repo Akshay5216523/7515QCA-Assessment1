@@ -10,6 +10,7 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
+
 Project: Micro:bit guitar
 
 https://makecode.microbit.org/courses/csintro/arrays/project
@@ -19,15 +20,7 @@ https://makecode.microbit.org/courses/csintro/arrays/project
 This project is related to mine as it is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing. Although I would be using a different form of input the concept is similar wherein the the pitch and tone of the sounds are modulated based on the input from the user. The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.
 
 ### Related project 2 ###
-Project: Micro:bit tilt thermin
 
-http://www.suppertime.co.uk/blogmywiki/2019/02/microbit-music-experiments/
-
-![Image](https://i.ytimg.com/vi/oFTcXJISoH4/maxresdefault.jpg)
-
-This project is also related to myine as it is also type of musical instrument, controlling the pitch of the tone being played by changing the physical pitch (tilt) of the micro:bit.
-
-### Related project 3 ###
 Project: Micro:bit paper piano
 
 https://drive.google.com/file/d/1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj/view
@@ -37,6 +30,16 @@ https://drive.google.com/file/d/1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj/view
 This project is also related to myine as it is also type of musical instrument whereas in this project the keys are covered by tin foil. All the keys are connected to 3.3 Volt that is supplied by the 3V pin of the microbit. There are 3 strips of tin foil laying under the keys perpendicularly. Each strip is connected to a digital input pin on the microbit. When a key is pressed it connects 3V to the digital input through the tin foils. The way microbit can recognize the different keys is that every key can
 contact to different combination of strips as we cover some of the strips with paper
 
+
+### Related project 3 ###
+
+Project: Micro:bit tilt thermin
+
+http://www.suppertime.co.uk/blogmywiki/2019/02/microbit-music-experiments/
+
+![Image](https://i.ytimg.com/vi/oFTcXJISoH4/maxresdefault.jpg)
+
+This project is also related to myine as it is also type of musical instrument, controlling the pitch of the tone being played by changing the physical pitch (tilt) of the micro:bit.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
