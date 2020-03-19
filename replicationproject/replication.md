@@ -27,6 +27,16 @@ http://www.suppertime.co.uk/blogmywiki/2019/02/microbit-music-experiments/
 
 This project is also related to myine as it is also type of musical instrument, controlling the pitch of the tone being played by changing the physical pitch (tilt) of the micro:bit.
 
+### Related project 3 ###
+Project: Micro:bit paper piano
+
+https://drive.google.com/file/d/1dgUUIEMWrP4NXYAxSSu5Rrd2ygb8OVcj/view
+
+![Image](https://i.pinimg.com/originals/3e/18/49/3e1849fee14e298666b287468ab5feb1.jpg)
+
+This project is also related to myine as it is also type of musical instrument whereas in this project the keys are covered by tin foil. All the keys are connected to 3.3 Volt that is supplied by the 3V pin of the microbit. There are 3 strips of tin foil laying under the keys perpendicularly. Each strip is connected to a digital input pin on the microbit. When a key is pressed it connects 3V to the digital input through the tin foils. The way microbit can recognize the different keys is that every key can
+contact to different combination of strips as we cover some of the strips with paper
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
