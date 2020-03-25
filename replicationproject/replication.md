@@ -4,7 +4,7 @@
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Microbit Ukulele ##
+## FSR Ukulele ##
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
@@ -109,11 +109,11 @@ This project is also related to myine as it is also type of musical instrument, 
 
 *Complete the following information.*
 
-### Project title ###
+### FSR Ukulele ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*This is a project replicating the idea of a guitar like musical instrument built with the microbit and a speaker. Notes are played according to the physical touch and pressure of the touch from the user on the instrument. The main purpose or use for this project would be educate children and beginners about the musical notes and pitch modulation in instruments.*
 
 ### Showcase image ###
 
