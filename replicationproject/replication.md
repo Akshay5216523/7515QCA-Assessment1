@@ -1,7 +1,5 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## FSR Ukulele ##
@@ -72,7 +70,7 @@ This project is also related to myine as it is also type of musical instrument, 
 
 *What I would like to know more about: Dan Saffer mentions that often times the attention of clients and stakeholders is focused on the big features instead of the small details that would enhance those features or improve the overall experience. I'd like know more on how a designer could tackle these situations while working professionaly*
 
-*How this relates to the project I am working on: .*
+*How this relates to the project I am working on: Multiple micro-interactions make up my project as a whole, I had to first figure out code to just sensing touch from the resistor and then add the detail of modulating the pitch based on pressure. Simple touch and pressure interaction triggers all of the events from my project*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
@@ -91,7 +89,6 @@ This project is also related to myine as it is also type of musical instrument, 
 
 ## Process documentation
 
-*This should have quite a lot of information!*
 
 ![Image](001.jpg)
 
@@ -101,11 +98,18 @@ This project is also related to myine as it is also type of musical instrument, 
 
 ![Image](002.jpg)
 
+![Image](004.jpg)
+
+![Image](008.png)
+
+![Image](005.jpg)
+
+![Image](006.jpg)
+
 *Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
-*Complete the following information.*
 
 ### FSR Ukulele ###
 
