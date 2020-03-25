@@ -99,6 +99,12 @@ This project is also related to myine as it is also type of musical instrument, 
 
 ![Image](001.jpg)
 
+![Image](003.jpg)
+
+![Image](007.jpg)
+
+![Image](002.jpg)
+
 *Include screenshots of the code you have used.*
 
 ## Project outcome ##
