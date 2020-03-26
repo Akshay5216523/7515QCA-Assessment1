@@ -91,24 +91,32 @@ This project is also related to myine as it is also type of musical instrument, 
 
 
 ![Image](001.jpg)
+*First analog signal read test from the force sensitive resistor.*
 
 ![Image](003.jpg)
+*Testing note trigger with the speaker using the FSR.*
 
 ![Image](007.png)
+*Code used in the testing metioned above.*
 
 ![Image](002.jpg)
+*Velostat sheet resistance test.*
 
 ![Image](004.jpg)
+*FSR taped on to the guitar frett and testing connection with the speaker.*
 
 ![Image](008.png)
+*Code used for the test above.*
 
 ![Image](005.jpg)
+*Close-up on how the FSRs were taped onto the frett board together along with the velostat sheet.*
 
 ![Image](006.jpg)
+*Half way through to finishing the frett board using double-sided tape, electrical tape, aluminum foil and velostat sheets.*
 
 ![Image](009.png)
+*Final code used to play different notes triggered by the different resistors on the frett.*
 
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
@@ -121,25 +129,25 @@ This project is also related to myine as it is also type of musical instrument, 
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](Main2.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](main3.jpg)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+*The best part about the project that surprised me was how responsive the FSRs were, even after tapng them shut on top of the frett board. The part I'd like to improve upon is the cable management, it was pretty difficult to keep the wires hidden and also keep away from getting shorted*
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+*The original guitar project showed me how I could code all the different tones I needed to be triggered from reading an analog pin's value. Another tutorial gve me a great tip on using aluminum foil along with my velostat sheet to get a perfect pressure sensor.*
 
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+*TeachwithICT.com gave me good examples and information on how to program the microbit to play notes responsively(https://www.teachwithict.com/microbit-music.html)
+
+The official BBC Microbiit Guide was also really helpful when I got stuck on how 3v power pins worked and if they could be shared. (https://books.google.com.au/books?id=fZ84DwAAQBAJ&lpg=PP1&ots=hdXuFWZPIh&dq=microbit%20and%20music%20&lr&pg=PP1#v=onepage&q=microbit%20and%20music&f=false)*
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+*I could definitely add more note to the guitar but to really improve on the project I could maybe use other ways to modulate the pitch, for example by using the acelerometer or maybe even an ultrasonic distanc sensor instead.
+
+I could've also used conductive ink or copper tape instead of fighting with wires to channel all the signals from the sensors to the microbit.*
