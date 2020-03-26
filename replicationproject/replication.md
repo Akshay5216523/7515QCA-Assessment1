@@ -1,7 +1,5 @@
 # Assessment 1: Replication project
 
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
-
 ## FSR Ukulele ##
 
 ## Related projects ##
@@ -44,9 +42,9 @@ Project: Micro:bit light thermin
 
 https://www.element14.com/community/community/stem-academy/microbit/blog/2018/12/21/project-bbc-microbit-light-theremin-by-cabe
 
-![Image](https://www.element14.com/community/servlet/JiveServlet/downloadImage/38-31268-650548/light+theremin+schematic.PNG)
+![Image](rp01.png)
 
-![Image](https://www.element14.com/community/servlet/JiveServlet/downloadImage/38-31268-650550/20181221_141518.jpg)
+![Image](rp02.png)
 
 This project is also related to myine as it is also type of musical instrument, controlling the pitch of the tone being played by changing the physical pitch (tilt) of the micro:bit.
 
