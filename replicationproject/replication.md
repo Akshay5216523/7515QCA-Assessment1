@@ -74,13 +74,13 @@ This project is also related to myine as it is also type of musical instrument, 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: I've always had notion that high-level programming skills are need to actually design physical interactive systems, my view on this has significantly changed. With creative coding becoming much more accessible along with a vast array of open-source libaries, it has become much easier for people to program dynamics interactive systems.*
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: I learnt that perseverance is a necessity when you're working on a design project. Scott mentions multiple situations where it seeemed linke the end of the road, but he had to keep trying to eventually breakthrough.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I am curious about what Scott is up to after working on CAPYBARA.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: Prototyping and beta testing was a crucial process I had to follow just like the author mentions about his project. Beta testing allowed me figure out errors in code that probably would'nt have noticed before demo without the test.
 
 
 ## Interaction flowchart ##
@@ -105,6 +105,8 @@ This project is also related to myine as it is also type of musical instrument, 
 ![Image](005.jpg)
 
 ![Image](006.jpg)
+
+![Image](009.png)
 
 *Include screenshots of the code you have used.*
 
