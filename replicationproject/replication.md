@@ -146,6 +146,6 @@ This project is also related to myine as it is also type of musical instrument, 
 The official BBC Microbiit Guide was also really helpful when I got stuck on how 3v power pins worked and if they could be shared. (https://books.google.com.au/books?id=fZ84DwAAQBAJ&lpg=PP1&ots=hdXuFWZPIh&dq=microbit%20and%20music%20&lr&pg=PP1#v=onepage&q=microbit%20and%20music&f=false)*
 
 
-*I could definitely add more note to the guitar but to really improve on the project I could maybe use other ways to modulate the pitch, for example by using the acelerometer or maybe even an ultrasonic distanc sensor instead.
+*I could definitely add more notes to the guitar but to really improve on the project, maybe I could've used other ways to modulate the pitch, for example by using the accelerometer on the board or maybe even an ultrasonic distanc sensor instead.
 
 I could've also used conductive ink or copper tape instead of fighting with wires to channel all the signals from the sensors to the microbit.*
